@@ -8,6 +8,8 @@ A simple web application that allows users to change the background color of the
 - Generate a random background color.
 - Responsive design.
 
+## live Demo
+[Click here to try the Background Color Changer](https://proficient6.github.io/bgcolorchanger/)
 ## Installation
 
 Clone the repository:
